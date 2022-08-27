@@ -1,3 +1,4 @@
+.DS_Store
 __pycache__
 .env
 app/__pycache__
@@ -6,3 +7,4 @@ app/main/__pycache__
 app/errors/__pycache__
 migrations/__pycache__
 .venv
+.vscode
